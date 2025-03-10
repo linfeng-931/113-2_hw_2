@@ -4,7 +4,7 @@ function Footer(){
             <div className="container">
                 <div className="footer-widget-01">
                 <div className="footer-logo">
-                    <a href="../index.html"><img src="../../public/image/logo1.svg" alt="logo" /></a>
+                    <a href="../index.html"><img src="image/logo1.svg" alt="logo" /></a>
                 </div>
                 <hr />
                 <div className="footer-text">

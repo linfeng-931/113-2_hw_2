@@ -1,7 +1,7 @@
 function Plastic_Intro(){
     return(
         <section className="plastic-intro-section">
-        <img src="../../public/image/fishing-net-new.svg" alt="" />
+        <img src="image/fishing-net-new.svg" alt="" />
         <div className="padding">
           <div className="column">
             <div className="left">
@@ -33,21 +33,21 @@ function Plastic_Intro(){
                     <div className="circle-small marine-creature-1">
                       <i className="ri-arrow-right-up-line"></i>
                     </div>
-                    <img src="../../public/image/dophins.svg" alt="dolphins" /></div></a>
+                    <img src="image/dophins.svg" alt="dolphins" /></div></a>
                 <a href="#marine-creature-2">
                   <div className="img-bg">
                     <div className="circle"></div>
                     <div className="circle-small marine-creature-2">
                       <i className="ri-arrow-right-up-line"></i>
                     </div>
-                    <img src="../../public/image/whale.svg" alt="whales" /></div></a>
+                    <img src="image/whale.svg" alt="whales" /></div></a>
                 <a href="#marine-creature-3">
                   <div className="img-bg">
                     <div className="circle"></div>
                     <div className="circle-small marine-creature-3">
                       <i className="ri-arrow-right-up-line"></i>
                     </div>
-                    <img src="../../public/image/seagulls.svg" alt="seagulls" /></div></a>
+                    <img src="image/seagulls.svg" alt="seagulls" /></div></a>
               </div>
             </div>
           </div>

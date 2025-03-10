@@ -2,7 +2,7 @@ function More(){
     return(
         <>
             <div className="decoration-img">
-                <img src="../../public/image/garbage02.svg" alt="../../public/image" className="decoration-img-3"/>
+                <img src="image/garbage02.svg" alt="image" className="decoration-img-3"/>
             </div>
 
             <div className="plastic-link-section-bg"></div>
@@ -11,7 +11,7 @@ function More(){
                 className="plastic-link-section plastic-intro-section"
                 id="plasticbag-link"
                 >
-                <img src="../../public/image/plasticbag-new.svg" alt="plastic bag" />
+                <img src="image/plasticbag-new.svg" alt="plastic bag" />
                 <div className="padding">
                     <div className="column">
                     <div className="left">
@@ -33,7 +33,7 @@ function More(){
                         <a href="plastic-bags.html">
                         <button className="learn-more-btn">
                             <div className="learn-more-img">
-                            <img src="../../public/image/shopping_bag_rejibukuro.png" alt="" />
+                            <img src="image/shopping_bag_rejibukuro.png" alt="" />
                             </div>
                             <div className="learn-more-txt">
                             <h2>Learn More</h2>
@@ -49,7 +49,7 @@ function More(){
                 </section>
                 <section className="plastic-link-section plastic-intro-section link-right-section"
                 id="microplastic-link">
-                <img src="../../public/image/microplastic-new.svg" alt="microplastic" />
+                <img src="image/microplastic-new.svg" alt="microplastic" />
                 <div className="padding">
                     <div className="column">
                     <div className="left">
@@ -65,7 +65,7 @@ function More(){
                         </p>
                         <a href="microplastic.html"><button className="learn-more-btn">
                             <div className="learn-more-img">
-                            <img src="../../public/image/petbottle_water_full.png" alt="" />
+                            <img src="image/petbottle_water_full.png" alt="" />
                             </div>
                             <div className="learn-more-txt">
                             <h2>Learn More</h2>

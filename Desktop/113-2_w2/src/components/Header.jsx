@@ -7,7 +7,7 @@ function Header(){
           <div className="logo-padding">
             <div className="logo-body">
               <a href="../index.html" className="logo">
-                <img src="../../public/image/logo.png" alt="home page link" />
+                <img src="image/logo.png" alt="home page link" />
               </a>
             </div>
           </div>

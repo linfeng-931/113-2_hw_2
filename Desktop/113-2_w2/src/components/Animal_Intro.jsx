@@ -18,7 +18,7 @@ function Animal_Intro(){
                                 reaching speeds of around 60 kilometers per hour.
                             </p>
                             </div>
-                            <img src="../../public/image/dophins.svg" alt="dolphins.svg" />
+                            <img src="image/dophins.svg" alt="dolphins.svg" />
                         </div>
 
                         <div className="slide" id="marine-creature-2">
@@ -32,7 +32,7 @@ function Animal_Intro(){
                                 fishing nets.
                             </p>
                             </div>
-                            <img src="../../public/image/whale.svg" alt="whale.svg" />
+                            <img src="image/whale.svg" alt="whale.svg" />
                         </div>
 
                         <div className="slide" id="marine-creature-3">
@@ -48,7 +48,7 @@ function Animal_Intro(){
                             </p>
                             </div>
 
-                            <img src="../../public/image/seagulls.svg" alt="seagulls.svg" />
+                            <img src="image/seagulls.svg" alt="seagulls.svg" />
                         </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ function Animal_Intro(){
             </div>
 
             <div className="decoration-img">
-                <img src="../../public/image/garbage01.svg" alt="../../public/image" className="decoration-img-2"/>
+                <img src="image/garbage01.svg" alt="image" className="decoration-img-2"/>
             </div>
         </>
     )

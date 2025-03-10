@@ -6,7 +6,7 @@ function News_Intro(){
           <div className="padding">
             <div className="column">
               <div className="news-container marine-creature-1-news" id="area4">
-                <img src="../../public/image/dolphin.jpg" alt="dolphin" />
+                <img src="image/dolphin.jpg" alt="dolphin" />
                 <h2 className="sub-title">Dolphin</h2>
                 <div className="txt">
                   <p>
@@ -29,7 +29,7 @@ function News_Intro(){
               </div>
 
               <div className="news-container marine-creature-2-news">
-                <img src="../../public/image/whale.jpg" alt="whale" />
+                <img src="image/whale.jpg" alt="whale" />
                 <h2 className="sub-title">Whale</h2>
                 <div className="txt">
                   <p>
@@ -52,7 +52,7 @@ function News_Intro(){
               </div>
 
               <div className="news-container marine-creature-3-news">
-                <img src="../../public/image/seagull.jpg" alt="seagull" />
+                <img src="image/seagull.jpg" alt="seagull" />
                 <h2 className="sub-title">Seagull</h2>
                 <div className="txt">
                   <p>Seagull wrapped in fishing net rescued in Weymouth.</p>
